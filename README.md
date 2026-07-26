@@ -12,8 +12,8 @@
 
 Automotive security researcher.
 
-🔭 &nbsp;I'm currently working on **an AI-evidence sharing system**  
-👯 &nbsp;I'm looking to collaborate on **AI-Defined Vehicle Security**
+🔭 &nbsp;I'm currently working on **in-vehicle and V2X intrusion detection, IoT anomaly detection**  
+👯 &nbsp;I'm looking to collaborate on **automotive security, nomaly detection and prevention projects and research**
 
 ### 🛠️ Tech Stack
 
