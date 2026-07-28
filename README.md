@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-Automotive security researcher.
+Researcher: Trust Management, Security & Privacy, Anomaly Detection & Mitigation
 
-🔭 &nbsp;I'm currently working on **in-vehicle and V2X intrusion detection, IoT anomaly detection**  
-👯 &nbsp;I'm looking to collaborate on **automotive security, nomaly detection and prevention projects and research**
+🔭 &nbsp;I'm currently working on **in-vehicle and V2X security & trust management, IoT anomaly detection**  
+👯 &nbsp;I'm looking to collaborate on projects and research related to **automotive security, anomaly detection and prevention**
 
 ### 🛠️ Tech Stack
 
